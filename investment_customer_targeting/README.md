@@ -1,4 +1,4 @@
-# [Project Title] – Example: Bank Customer Investment Behavior Analysis
+# Bank Customer Investment Behavior Analysis
 
 ## 📌 Objective
 Analyze customer data to identify target segments most likely to invest in financial products and frequently use mobile banking.
